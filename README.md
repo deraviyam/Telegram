@@ -1,3 +1,3 @@
-# Fuzzy Telegram
+# Daily Quotes
 *A simple vanilla PHP web application displaying random quote of the day.*
 
